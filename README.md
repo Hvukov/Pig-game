@@ -1,5 +1,8 @@
 # Pig game Javascript DOM manipulation project
 
+Please chech the site @
+https://youthful-engelbart-624b2b.netlify.app/
+
 Game is designed by Jonas Schmedtmann but code is implemented by me.
 
 Goal: Learn about DOM manipulation.
